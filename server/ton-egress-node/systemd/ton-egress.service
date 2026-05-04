@@ -1,0 +1,12 @@
+[Unit]
+Description=TON Egress Node
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/ton-egress
+ExecStart=/opt/ton-egress/ton_egress_node --config /opt/ton-egress/config.json
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dapf TON Gate</string>
+    <string name="start_vpn">Старт</string>
+    <string name="stop_vpn">Стоп</string>
+    <string name="vpn_enabled">VPN включен</string>
+    <string name="vpn_disabled">VPN выключен</string>
+    <string name="blocked_threats_template">Заблокировано угроз: %1$d</string>
+</resources>

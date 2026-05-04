@@ -1,0 +1,17 @@
+{
+  "transport_backend": "adnl",
+  "adnl_backend_library": "/root/DapfTONGate/ton-egress-node/build/libton_adnl_backend.so",
+  "adnl_listen_address": "0.0.0.0",
+  "private_key": "17236849303CF6E1A4B06575CD43DA167001B3B6469E7B99566846D7454F7F3CE17533B2",
+  "listen_port": 30303,
+  "max_streams": 100,
+  "idle_timeout_sec": 60,
+  "allowed_clients": [],
+  "auth_token": "187155a3fb8f909948c2c01dce690f13a7fbbbe0b784628d1ddcaca0a845c502",
+  "egress": {
+    "enabled": true,
+    "max_payload_bytes": 65536,
+    "allowed_ports": [80, 443, 8080, 8443, 853, 5222],
+    "block_private_ips": false
+  }
+}

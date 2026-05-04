@@ -1,0 +1,7 @@
+{
+  "egress_adnl_address": "d3a7e46a4e72181461b4914448c2578cf7f6d4c51b712200dfe761dd95b8fd23@89.117.152.67:30303",
+  "local_udp_advertise_host": "",
+  "client_private_key": "876106a070326236e1c82da75d130f3dfa2fb75561fa6e6fcfc37f22c3cf8622",
+  "client_public_key": "AUTO_OR_SAME_TEMP",
+  "auth_token": "187155a3fb8f909948c2c01dce690f13a7fbbbe0b784628d1ddcaca0a845c502"
+}

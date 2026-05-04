@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Private security report (GitHub Help)
+    url: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability
+    about: Read SECURITY.md / SECURITY.ru.md in this repo before filing. / Прочитайте SECURITY.md или SECURITY.ru.md.

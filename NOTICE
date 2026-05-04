@@ -1,0 +1,15 @@
+TON Tunnel — project copyright and license notice
+
+Copyright (C) 2025 lucky
+
+This project is licensed under the GNU Affero General Public License v3.0
+or later. See the LICENSE file for the authoritative English legal text.
+
+A non-binding Russian translation is provided in LICENSE.ru for convenience.
+
+Third-party libraries (TON reference tree, OpenSSL, libsodium, lz4, and
+others bundled under ton-egress-node/third_party/ton/third-party/) remain
+under their respective licenses. Refer to THIRD_PARTY_LICENSES.md /
+THIRD_PARTY_LICENSES.ru.md and the LICENSE* files shipped inside each subdirectory.
+
+Contributor-facing bilingual index: `.github/DOCUMENTATION.md`.
