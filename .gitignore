@@ -38,3 +38,5 @@ Thumbs.db
 *.swp
 *.swo
 *~
+TON-Tunnel/.vs/
+app/src/main/jniLibs/
