@@ -40,3 +40,7 @@ Thumbs.db
 *~
 TON-Tunnel/.vs/
 app/src/main/jniLibs/
+TON-Tunnel/third_party/badvpn
+server/ton-egress-node/third_party/ton
+server/ton-egress-node/ton
+ton-egress-node/third_party/ton
